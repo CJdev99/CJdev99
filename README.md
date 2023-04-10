@@ -1,4 +1,6 @@
-### Hi there 👋
+# Chase Devitt
+### Senior Mechanical Engineering Student with a Minor in Computer Science
+
 
 <!--
 **CJdev99/CJdev99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
