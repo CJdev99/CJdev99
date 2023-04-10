@@ -1,5 +1,6 @@
 # Chase Devitt
-### Senior Mechanical Engineering Student with a Minor in Computer Science
+
+
 
 
 <!--
