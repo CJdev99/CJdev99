@@ -1,5 +1,5 @@
-# Chase Devitt
-
+- Currently at AT&T doing Network/Software Engr
+- Interest in computer vision, DL/ML in robotics applications, and building robotics applications
 
 
 
