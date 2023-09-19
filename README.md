@@ -1,5 +1,4 @@
-- Currently at AT&T doing Network/Software/Data Engr
-- Interest in computer vision, DL/ML in robotics applications, and building robotic systems 🤖🤖
+
 
 
 
